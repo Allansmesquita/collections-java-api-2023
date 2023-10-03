@@ -1,0 +1,9 @@
+
+d
+java:S11926"HDefine a constant instead of duplicating this literal "Autor 2" 3 times.(ŠÆ=8ëñ“°¯1
+e
+java:S11925"HDefine a constant instead of duplicating this literal "Livro 1" 3 times.(ˆ»–8½˜ °¯1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨…ş†8Ç˜Œ°¯1
+G	java:S106;"+Replace this use of System.out by a logger.(øê´Û8»Ó°¯1
+G	java:S106<"+Replace this use of System.out by a logger.(ïçÕõ8¡¼”°¯1
+F	java:S106="+Replace this use of System.out by a logger.(†‰¶v8“Å›°¯1
