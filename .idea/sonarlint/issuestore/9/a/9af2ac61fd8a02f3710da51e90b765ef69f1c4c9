@@ -1,0 +1,4 @@
+
+„
+java:S1488"gImmediately return this expression instead of assigning it to the temporary variable "produtosPorNome".(ÇÚÝ‚8Ø®Ù¹¯1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É¦’¶ùÿÿÿÿ8Ú®Ù¹¯1

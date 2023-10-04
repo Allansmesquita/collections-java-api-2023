@@ -15,3 +15,15 @@ X
 (src/main/java/list/Ordenacao/Pessoa.java,d\8\d89689b935bd111aeedbca8eed6d8fde5e04f0e9
 a
 1src/main/java/list/Ordenacao/OrdenacaoPessoa.java,b\f\bf344bb6f65353cf36a9cf475a4778c3f4f42dbe
+j
+:src/main/java/set/OperacoesBasicas/ConjuntoConvidados.java,d\b\dbac7a58f754a805b919633a4ce1d887736f4c84
+a
+1src/main/java/set/OperacoesBasicas/Convidado.java,6\8\6863777fb4b6c120d371204863ba033674f704c1
+W
+'src/main/java/set/Pesquisa/Contato.java,1\5\15a4c7705ec5f2f6eaefc7857457087f90ee4a66
+^
+.src/main/java/set/Pesquisa/AgendaContatos.java,9\8\981e936621fd2f724d09601d9305505737697457
+X
+(src/main/java/set/Ordenacao/Produto.java,b\f\bf5e22ae3e208f8d49bb40d7770cbbe6b03841af
+a
+1src/main/java/set/Ordenacao/CadastroProdutos.java,9\a\9af2ac61fd8a02f3710da51e90b765ef69f1c4c9
