@@ -1,0 +1,7 @@
+
+i
+java:S1192&"GDefine a constant instead of duplicating this literal "Camila" 4 times.(¼ãºúÿÿÿÿ8ãŠğÂ¯1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÍÖãşÿÿÿÿ8æŠğÂ¯1
+G	java:S106"+Replace this use of System.out by a logger.(ÏÌ¾’8‡‹ğÂ¯1
+L	java:S1060"+Replace this use of System.out by a logger.(ƒË§Úúÿÿÿÿ8¾åñÂ¯1
+L	java:S1062"+Replace this use of System.out by a logger.(‘£úïúÿÿÿÿ8Œ‹ğÂ¯1
